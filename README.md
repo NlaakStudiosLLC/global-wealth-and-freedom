@@ -16,3 +16,6 @@
 | Chat (Messenger)             | [com.nlaak.gwf.chat.www](https://github.com/NlaakStudiosLLC/com.nlaak.gwf.chat.www) | Private | https://chat.gwf.io |
 | Decentralized Exchange (DEX) | [com.nlaak.gwf.swap.www](https://github.com/NlaakStudiosLLC/com.nlaak.gwf.swap.www) | Private | https://swap.gwf.io |
 | App (Cross-Platform)    | [com.nlaak.gwf.app](https://github.com/NlaakStudiosLLC/com.nlaak.gwf.app) | Private | N/A |
+
+
+NOTE: gwf.io redirects to the Platform Landing Site
