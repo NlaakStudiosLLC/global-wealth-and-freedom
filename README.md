@@ -4,6 +4,7 @@
 
 [Take me to the Public WIKI](https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/wiki)
 
+[Take me to the Agile Kanban Board](https://github.com/orgs/NlaakStudiosLLC/projects/3)
 
 ## Related Repositories
 
