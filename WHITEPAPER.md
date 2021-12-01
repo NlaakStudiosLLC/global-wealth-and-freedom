@@ -2,14 +2,13 @@
 
 |                                                                                                                                                      |                                                                                                                                                                                       |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/main/gwf_logo_256.png" alt="GWF Logo" width="320px"/> |                                                              <h1>Global Wealth &amp; Freedom</h2><h3>Your Social Platform, Your Way! We are the unified social platform for all!</h3> |
-| <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/main/GWF.Token.png" alt="GWF Logo" width="240px"/> | <h5>MySocial: https://gwf.io</h5><h5>MediaJunky: https://media-junky.com</h5><h5>MyMail: https://webmail.gwf.io</h5><h5>MyChat: https://chat.gwf.io</h5><h5>MyDEX: https://swap.gwf.io</h5> |
+| <img src="logos/main/gwf_logo_256.png" alt="GWF Logo" width="320px"/> |                                                              <h1>Global Wealth &amp; Freedom</h2><h3>Your Social Platform, Your Way! We are the unified social platform for all!</h3> |
+| <img src="logos/main/GWF.Token.png" alt="GWF Token Logo" width="240px"/> | <h5>MySocial: https://gwf.io</h5><h5>MediaJunky: https://media-junky.com</h5><h5>MyMail: https://webmail.gwf.io</h5><h5>MyChat: https://chat.gwf.io</h5><h5>MyDEX: https://swap.gwf.io</h5> |
 | Social Links | [Discord](https://discord.gg/Tn87FSP3) - [LinkedIN](https://www.linkedin.com/showcase/gwf-platform) - [Twitter](https://twitter.com/GWFPlatform) - [Telegram](https://t.me/GWFPlatform) - [GWF Social](https://social.gwf.io/gwfplatform) |
 
 
-***
-<img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/images/work-in-progress.gif" alt="Work In Progress" />
-***
+<img src="images/work-in-progress.gif" alt="Work In Progress" />
+
 
 ## Notice
 
@@ -75,21 +74,21 @@ We are using the absolute latest in technology to create the only 100% decentral
 
 ***
 
-<img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/diagrams/Account-Structure.svg" alt="Account Structure" />
+<img src="diagrams/Account-Structure.svg" alt="Account Structure" />
 
 ## Protocols
 
 |                                                                               Logo                                                                                | Function  | Alts/Example | Description |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------- | :---------- | ----------: |
-| <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-social.png" alt="Social" width="240px"/> | Social    | Facebook    | Facebook like Social Media using a dedicated side-chain and InterPlanetary File System (IPFS) providing full privacy, security and zero censoring. Implements an account notoriety system |
-|  <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-tube.png" alt="MyTube" width="240px"/>  | MyTube    | YouTube     | Youtube like Video Sharing & Streaming service using a dedicated side-chain and InterPlanetary File System (IPFS) Like Social, provides full privacy, security and zero censoring and also implements an account notoriety system |
-|  <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-credo.png" alt="Credo" width="240px"/>  | Credo     | Twitter     | Twitter like MicroBlogger with some added features and minor tweaks. Uses a dedicated side-chain and InterPlanetary File System (IPFS) Like Social, provides full privacy, security and zero censoring and also implements an account notoriety system |
-|   <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-mail.png" alt="Mail" width="240px"/>   | eMail     | GMail       | GMail like Email service using a dedicated side-chain and InterPlanetary File System (IPFS). This does not use traditional POP or IMAP protocols but instead is a new IMAP-Like decentralized solution that will have built-in SPAM control and penalties. Like Social, provides full privacy, security and zero censoring. |
-|   <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-chat.png" alt="Chat" width="240px"/>   | Messenger | Multiple    | Instant Messenger service including Full Encryption, Regions, Rooms, Screen sharing, VOIP, Video Calling all using a dedicated side-chain and InterPlanetary File System (IPFS). Like Social, provides full privacy, security and zero censoring. |
-|   <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-node.png" alt="Node" width="240px"/>   | Node Dashboard | N/A    | Your Node Dashboard & Control Panel. Everyone has at the very least a minimal "Micro-Node" that performs consensus. You have the option of choosing how much of your hardware (CPU, HDD and Bandwidth) you wish to allot to the Node and generate revenue. |
-|   <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-wallet.png" alt="Wallet" width="240px"/>   | Wallet | N/A    | Stores the public and/or private keys for your primary account and all side-chain account transactions. Also used for digitally signing information. |
-|   <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-wns.png" alt="WNS" width="240px"/>   | Wallet Name Service | N/A    | Never remember your cryptic wallet addresses again! The Wallet Name Service works much like a traditional Domain Service including standard Top Level Domains (TLDs) via a dedicated side-chain and InterPlanetary File System (IPFS). |
-|   <img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/logos/platform-icons/gwf_platform_logo-swap.png" alt="Swap" width="240px"/>   | Swap (DEX) | Sushi, uniswap, 1inch | Your personally tailored Decentralized Exchange using a dedicated side-chain and InterPlanetary File System (IPFS). Allows you to quickly and easily "Swap" between supported tokens and provides One-Click Cross chain transfers to/from USDC and USDT. Full De-Fi, Staking, Liquidity Pools plus several new features building upon prior "Swap Platforms" such as Sushi, uniswap, 1inch |
+| <img src="logos/platform-icons/gwf_platform_logo-social.png" alt="Social" width="240px"/> | Social    | Facebook    | Facebook like Social Media using a dedicated side-chain and InterPlanetary File System (IPFS) providing full privacy, security and zero censoring. Implements an account notoriety system |
+|  <img src="logos/platform-icons/gwf_platform_logo-tube.png" alt="MyTube" width="240px"/>  | MyTube    | YouTube     | Youtube like Video Sharing & Streaming service using a dedicated side-chain and InterPlanetary File System (IPFS) Like Social, provides full privacy, security and zero censoring and also implements an account notoriety system |
+|  <img src="logos/platform-icons/gwf_platform_logo-credo.png" alt="Credo" width="240px"/>  | Credo     | Twitter     | Twitter like MicroBlogger with some added features and minor tweaks. Uses a dedicated side-chain and InterPlanetary File System (IPFS) Like Social, provides full privacy, security and zero censoring and also implements an account notoriety system |
+|   <img src="logos/platform-icons/gwf_platform_logo-mail.png" alt="Mail" width="240px"/>   | eMail     | GMail       | GMail like Email service using a dedicated side-chain and InterPlanetary File System (IPFS). This does not use traditional POP or IMAP protocols but instead is a new IMAP-Like decentralized solution that will have built-in SPAM control and penalties. Like Social, provides full privacy, security and zero censoring. |
+|   <img src="logos/platform-icons/gwf_platform_logo-chat.png" alt="Chat" width="240px"/>   | Messenger | Multiple    | Instant Messenger service including Full Encryption, Regions, Rooms, Screen sharing, VOIP, Video Calling all using a dedicated side-chain and InterPlanetary File System (IPFS). Like Social, provides full privacy, security and zero censoring. |
+|   <img src="logos/platform-icons/gwf_platform_logo-node.png" alt="Node" width="240px"/>   | Node Dashboard | N/A    | Your Node Dashboard & Control Panel. Everyone has at the very least a minimal "Micro-Node" that performs consensus. You have the option of choosing how much of your hardware (CPU, HDD and Bandwidth) you wish to allot to the Node and generate revenue. |
+|   <img src="logos/platform-icons/gwf_platform_logo-wallet.png" alt="Wallet" width="240px"/>   | Wallet | N/A    | Stores the public and/or private keys for your primary account and all side-chain account transactions. Also used for digitally signing information. |
+|   <img src="logos/platform-icons/gwf_platform_logo-wns.png" alt="WNS" width="240px"/>   | Wallet Name Service | N/A    | Never remember your cryptic wallet addresses again! The Wallet Name Service works much like a traditional Domain Service including standard Top Level Domains (TLDs) via a dedicated side-chain and InterPlanetary File System (IPFS). |
+|   <img src="logos/platform-icons/gwf_platform_logo-swap.png" alt="Swap" width="240px"/>   | Swap (DEX) | Sushi, uniswap, 1inch | Your personally tailored Decentralized Exchange using a dedicated side-chain and InterPlanetary File System (IPFS). Allows you to quickly and easily "Swap" between supported tokens and provides One-Click Cross chain transfers to/from USDC and USDT. Full De-Fi, Staking, Liquidity Pools plus several new features building upon prior "Swap Platforms" such as Sushi, uniswap, 1inch |
 
 ***
 
@@ -167,7 +166,7 @@ Decentralized social networks will become widespread in the aftermath of the Fac
 And then there's the fact that people just want their privacy and they don't want to be tracked and have their information sold for ad targeting.
 
 
-<img src="https://github.com/NlaakStudiosLLC/global-weallth-and-freedom/blob/main/diagrams/GWF-Platform-Relation.svg" alt="Platform Relation" />
+<img src="diagrams/GWF-Platform-Relation.svg" alt="Platform Relation" />
 
 
 ### com.nlaak.gwf.blockchain
