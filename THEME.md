@@ -2,8 +2,9 @@
 
 ## Fade Colors
 
-- Light BG Color: #c5eec5
-- Dark BG Color: #43a047
+- Light BG Color:   #c5eec5
+- Medium BG Color:  #66bb6a
+- Dark BG Color:    #43a047
 
 Font Family: Comfortaa, Roboto, "Helvetica Neue", Arial, sans-serif
 Standard letter Spacing: 0.25px
